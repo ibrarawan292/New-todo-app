@@ -1,0 +1,35 @@
+
+
+
+.top-strip-section{
+  background-color: rgb(51, 99, 255);
+  padding: 1rem 0;
+  position: sticky;
+  width: 100%;
+  top: 0;
+  left: 0;
+
+}
+
+.top-strip-section .top-strip-inner{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+}
+
+.my-todo-list{
+  background-color: coral;
+  padding: 1.5rem;
+  margin-top: 1rem;
+  border-radius: .5rem;
+}
+.tod-list-inner{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar .navbar-nav .nav-link{
+  color: white;
+}
